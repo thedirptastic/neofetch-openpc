@@ -205,4 +205,6 @@ end
 
 for i=1,1 do
     hilbifetch.echo()
+    print(computer.uptime())
+    print(infotable[])
 end
