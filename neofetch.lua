@@ -202,3 +202,7 @@ function hilbifetch.echo()
 		io.flush()
 	end
 end
+
+for i=1,1 do
+    hilbifetch.echo()
+end
